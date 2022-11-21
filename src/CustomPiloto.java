@@ -14,6 +14,7 @@ public class CustomPiloto extends StdDeserializer<Resultado> {
     public CustomPiloto(Class<?> vc, List<Piloto> pilotos, List<Circuito> circuitos) {
         super(vc);
         this.pilotos = pilotos;
+        this.circuitos = circuitos;
     }
 
     @Override

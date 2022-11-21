@@ -4,18 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e24f75c-96da-4a07-a7d7-a22603b33e5e" name="Changes" comment="hola">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/fasterxml_jackson_core_annotations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/fasterxml_jackson_core_annotations1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/fasterxml_jackson_datatype_hibernate4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jakarta_xml_bind_api.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/javax_xml_bind_jaxb_api.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CustomPiloto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pilotos.java" afterDir="false" />
+    <list default="true" id="4e24f75c-96da-4a07-a7d7-a22603b33e5e" name="Changes" comment="Lo que tengo por ahora">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExamenFlaviusFicheros.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ExamenFlaviusFicheros.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pilotos.xml" beforeDir="false" afterPath="$PROJECT_DIR$/data/pilotos.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Circuito.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Circuito.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CustomPiloto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CustomPiloto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Mundial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Mundial.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Piloto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Piloto.java" afterDir="false" />
     </list>
@@ -53,12 +44,30 @@
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Mundial">
+    <configuration name="Mundial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mundial" />
+      <module name="ExamenFlaviusFicheros" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jakarta.activation-api-2.1.0.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$MAVEN_REPOSITORY$/jakarta/activation/jakarta.activation-api/2.1.0/jakarta.activation-api-2.1.0.jar!/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Mundial" />
+        <item itemvalue="JAR Application.jakarta.activation-api-2.1.0.jar" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -82,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669043220841</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Lo que tengo por ahora">
+      <created>1669051735515</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669051735515</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,6 +114,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hola" />
-    <option name="LAST_COMMIT_MESSAGE" value="hola" />
+    <MESSAGE value="Lo que tengo por ahora" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lo que tengo por ahora" />
   </component>
 </project>
